@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AWSome Translator</string>
+    <string name="translate_button">Translate</string>
+</resources>
